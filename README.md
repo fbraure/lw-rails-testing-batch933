@@ -1,1 +1,3 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+git@github.com:fbraure/lw-rails-testing-batch933.git
+https://serene-castle-33943.herokuapp.com/
+https://git.heroku.com/serene-castle-33943.git
